@@ -1,0 +1,9 @@
+{
+	"ERROR_USER_ALREADY_EXISTS": "User Already Exists",
+	"ERROR_INVALID_EMAIL_FORMAT": "Invalid Email Format",
+	"UNAUTHORIZED": "Unauthorized",
+	"SUCCESS": "Success",
+	"USER_NOT_FOUND": "User Not Found",
+	"ERROR_MISSING_REQUIRED_FIELDS": "Missing required fields",
+	"ERROR_USER_DOES_NOT_EXISTS": "ERROR_USER_DOES_NOT_EXISTS"
+}
